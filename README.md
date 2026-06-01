@@ -185,9 +185,3 @@ matplotlib
 
 ---
 
-## Project Info
-
-**Course:** EE433 Digital Image Processing  
-**Batch:** BESE-28  
-**Dataset:** MIVIA HEp-2 Image Dataset — University of Salerno  
-**Environment:** Google Colab (Python 3)
